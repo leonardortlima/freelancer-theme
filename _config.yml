@@ -7,6 +7,9 @@ keywords: "your keywords, separated by commas"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
 
+# Google analytics
+analytics:
+
 # Google webmaster tools
 google_verify:
 
