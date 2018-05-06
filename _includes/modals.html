@@ -39,6 +39,13 @@
                                     </li>
                                 {% endif %}
                             </ul>
+                            {% if post.features %}
+                                <ul class="list-inline item-details">
+                                    <li>Features:
+                                        <strong>{{ post.features }}</strong>
+                                    </li>
+                                </ul>
+                            {% endif %}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
