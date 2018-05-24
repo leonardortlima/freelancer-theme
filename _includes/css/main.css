@@ -445,6 +445,34 @@ footer .footer-below {
     transform: rotate(90deg);
 }
 
+.portfolio-modal .badge-container {
+    list-style-type: none;
+    width:300px;
+    display: inline-block;
+}
+
+.portfolio-modal .google-play-badge {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 0px !important;
+}
+
+.portfolio-modal .itunes-badge {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 0px !important;
+    margin:6%;
+    width:88%;
+}
+
+.thin-list {
+    margin: 0px 0px !important;
+}
+
+.btn-dismiss {
+    margin-top: 30px;
+}
+
 .navbar-nav>.active>a {
     background-color: #{{ site.color.secondary-dark }} !important;
 }
