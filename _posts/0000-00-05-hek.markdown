@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 5
+date: 2017-01-30
+thumbnail: hek.png
+img: hek_ss1.png
+alt: iOS version of the H&K app
+project-date: April 2016
+client: H&K
+category: Native iOS development
+description: Users can quickly order photo-products, services and select pictures from their event albums in a much more convenient way.
+client-url: http://www.fotohk.com.br/
+itunes-url: https://itunes.apple.com/br/app/h-k/id1187857367
+features: REST API, Facebook social login, file access
+---

@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 6
+date: 2016-09-17
+thumbnail: mymedi.png
+img: mymedi_ss1.png
+alt: iOS version of the MyMedi app
+project-date: September 2016
+client: MyMedi
+category: Native iOS development
+description: MyMedi is a medical management system with online medical records. A doctor can check their own schedule, update the patient's records with information and attach images during an appointment.
+client-url: https://www.mymedi.com.br/
+itunes-url: https://itunes.apple.com/br/app/mymedi/id1155170680
+features: REST API, push notifications
+---

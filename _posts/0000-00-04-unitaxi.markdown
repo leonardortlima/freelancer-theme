@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2016-07-29
+thumbnail: unitaxi.png
+img: unitaxi_ss1.png
+alt: Android version of the Unitáxi app
+project-date: July 2016
+client: Unitáxi
+category: Native Android development; Layout
+description: First taxi app in Marília city. Users can call a cab in a quick and easy way.
+google-play-url: https://play.google.com/store/apps/details?id=com.eprodutiva.mobile.unitaxi
+features: REST API, push notifications
+---
