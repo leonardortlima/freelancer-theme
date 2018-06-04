@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator>
+  <link href="http://leonardortlima.com/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://leonardortlima.com/" rel="alternate" type="text/html" />
+  <updated>2018-06-03T21:13:11-03:00</updated>
+  <id>http://leonardortlima.com/</id>
+
+  
+    <title type="html">Leonardo Lima</title>
+  
+
+  
+    <subtitle>Personal portfolio of Leonardo, native Android and iOS developer.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Hek</title>
+      <link href="http://leonardortlima.com/native%20ios%20development/2017/01/30/hek/" rel="alternate" type="text/html" title="Hek" />
+      <published>2017-01-30T00:00:00-02:00</published>
+      <updated>2017-01-30T00:00:00-02:00</updated>
+      <id>http://leonardortlima.com/native%20ios%20development/2017/01/30/hek</id>
+      <content type="html" xml:base="http://leonardortlima.com/native%20ios%20development/2017/01/30/hek/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Native iOS development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mymedi</title>
+      <link href="http://leonardortlima.com/native%20ios%20development/2016/09/17/mymedi/" rel="alternate" type="text/html" title="Mymedi" />
+      <published>2016-09-17T00:00:00-03:00</published>
+      <updated>2016-09-17T00:00:00-03:00</updated>
+      <id>http://leonardortlima.com/native%20ios%20development/2016/09/17/mymedi</id>
+      <content type="html" xml:base="http://leonardortlima.com/native%20ios%20development/2016/09/17/mymedi/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Native iOS development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">São Paulo Digital</title>
+      <link href="http://leonardortlima.com/native%20android%20development;%20layout/2016/09/12/s%C3%A3o-paulo-digital/" rel="alternate" type="text/html" title="São Paulo Digital" />
+      <published>2016-09-12T00:00:00-03:00</published>
+      <updated>2016-09-12T00:00:00-03:00</updated>
+      <id>http://leonardortlima.com/native%20android%20development;%20layout/2016/09/12/s%C3%A3o-paulo-digital</id>
+      <content type="html" xml:base="http://leonardortlima.com/native%20android%20development;%20layout/2016/09/12/s%C3%A3o-paulo-digital/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Native Android development; Layout" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Unitaxi</title>
+      <link href="http://leonardortlima.com/native%20android%20development;%20layout/2016/07/29/unitaxi/" rel="alternate" type="text/html" title="Unitaxi" />
+      <published>2016-07-29T00:00:00-03:00</published>
+      <updated>2016-07-29T00:00:00-03:00</updated>
+      <id>http://leonardortlima.com/native%20android%20development;%20layout/2016/07/29/unitaxi</id>
+      <content type="html" xml:base="http://leonardortlima.com/native%20android%20development;%20layout/2016/07/29/unitaxi/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Native Android development; Layout" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Jacto Smart Selector</title>
+      <link href="http://leonardortlima.com/android%20and%20ios%20native%20development;%20layout/2016/04/30/jacto-smart-selector/" rel="alternate" type="text/html" title="Jacto Smart Selector" />
+      <published>2016-04-30T00:00:00-03:00</published>
+      <updated>2016-04-30T00:00:00-03:00</updated>
+      <id>http://leonardortlima.com/android%20and%20ios%20native%20development;%20layout/2016/04/30/jacto-smart-selector</id>
+      <content type="html" xml:base="http://leonardortlima.com/android%20and%20ios%20native%20development;%20layout/2016/04/30/jacto-smart-selector/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Android and iOS native development; Layout" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Eprodutiva</title>
+      <link href="http://leonardortlima.com/native%20android%20development;%20layout/2015/01/30/eprodutiva/" rel="alternate" type="text/html" title="Eprodutiva" />
+      <published>2015-01-30T00:00:00-02:00</published>
+      <updated>2015-01-30T00:00:00-02:00</updated>
+      <id>http://leonardortlima.com/native%20android%20development;%20layout/2015/01/30/eprodutiva</id>
+      <content type="html" xml:base="http://leonardortlima.com/native%20android%20development;%20layout/2015/01/30/eprodutiva/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Native Android development; Layout" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
